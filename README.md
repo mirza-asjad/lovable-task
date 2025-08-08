@@ -60,8 +60,8 @@ A modern, AI-powered lead capture system with personalized email confirmations a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/innovation-lead-capture.git
-   cd innovation-lead-capture
+   git clone https://github.com/mirza-asjad/lovable-task
+   cd lovable-task
    ```
 
 2. **Install dependencies**
